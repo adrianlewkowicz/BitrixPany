@@ -1,0 +1,36 @@
+.view {
+  background: url('/assets/img/contact.jpg')no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.contact-section
+{
+  width: auto;
+  height: auto;
+
+
+
+}
+
+.card
+{
+  width: auto;
+  height: 500px;
+  opacity: 0.9;
+  background-image: url('/assets/img/contact.jpg');
+}
+
+.cc
+{
+  color: black;
+}
+
+.send
+{
+  position: relative;
+  left:  43%;
+  top: 20px;
+
+}
+
